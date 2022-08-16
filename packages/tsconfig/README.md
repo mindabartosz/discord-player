@@ -1,0 +1,3 @@
+# `tsconfig`
+
+Discord Player TSConfig
